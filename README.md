@@ -25,3 +25,6 @@ The model is built using **Logistic Regression** and trained on the Breast Cance
 ## Use Case
 
 This project demonstrates the application of Machine Learning in healthcare by assisting in the classification of breast cancer cases based on diagnostic measurements. It is intended for educational and research purposes and should not be used as a substitute for professional medical diagnosis.
+
+## App Link
+https://breast-cancer-ml-logistic-regression.streamlit.app/
